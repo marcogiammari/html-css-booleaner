@@ -48,3 +48,18 @@ ul {
     list-style-position: inside;
     padding-left: 0;
 }
+
+thead {
+    background-color: #20a9e5;
+    color: white;
+    font-size: large;
+    font-weight: 900;
+}
+
+tbody .sfondo-azzurro {
+    background-color: #b1e5f2;
+}
+
+td {
+    width: 30%;
+}
