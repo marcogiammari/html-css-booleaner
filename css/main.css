@@ -42,11 +42,6 @@ main, footer {
     font-size: 1em;
 }
 
-article img {
-    width: 48%;
-    height: 360px;
-}
-
 ul {
     list-style-position: inside;
     padding-left: 0;
